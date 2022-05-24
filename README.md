@@ -4,7 +4,7 @@
 
 Build an instrument tuner with two modes:
 
-- Mode 1: Run the program with `python3 tuner.py guitar-a2.wav` with command line arguments.
+- Mode 1: Run the program with `python3 tuner.py guitar-a3.wav` with command line arguments.
 - Mode 2: Run the program with `python3 tuner.py` for microphone input, no command line arguments taking in WAV files.
   ## **When doing Mode 2, it will be in an infinite loop, to exit the program: `ctrl+c`**
   Prints the frequency of either the WAV files or continuously print live mic frequency input.
